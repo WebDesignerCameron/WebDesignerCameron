@@ -21,7 +21,3 @@ ask [ChatGPT](https://chatgpt.com).
 ### Small Websites
 * [My first website](https://webdesignercameron.github.io/index1)
 * [Learning Log Beta Version](https://webdesignercameron.github.io/learning-log)
-## Repository Count
-<!-- REPO_COUNT_START -->
-Public Repositories: 0
-<!-- REPO_COUNT_END --> 
