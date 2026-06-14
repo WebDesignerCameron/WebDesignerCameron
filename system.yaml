@@ -1,0 +1,37 @@
+name: Update Repository Count
+
+on:
+  schedule:
+    # Runs every 5 minutes (GitHub's minimum limit)
+    - cron: '*/5 * * * *'
+  workflow_dispatch: # Allows you to run this manually anytime
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install Requests Library
+        run: pip install requests
+
+      - name: Run Script
+        run: python thonny.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add README.md
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Auto-updated repository count"
+            git push
+          else
+            echo "No changes detected."
+          fi
