@@ -1,8 +1,7 @@
-<h1>WebDesignerCameron</h1>
 # WebDesignerCameron
 ## Introduction
 Hi, I'm [WebDesignerCameron](https://github.com/WebDesignerCameron) and I create websites for myself and for other people. 
-I've always loved two things: sharing information and earning rewards for what I like doing anyways. Therefore the idea 
+***I've always loved two things:*** sharing information and earning rewards for what I like doing anyways. Therefore the idea 
 of websites stuck with me, and I thus founded [WebDesignerCameron Sites](https://webdesignercameron.github.io/WebDesignerCameronSites). I got to do what I loved, with a bonus cash 
 reward. You can see what I love doing in [this website](https://webdesignercameron.github.io/aboutcamrepo). 
 ## Capabilities
