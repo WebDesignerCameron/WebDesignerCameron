@@ -11,11 +11,11 @@ of my websites I build without reference</strong>, but when I'm stuck, I'll ask 
 ask <a href="https://chatgpt.com">ChatGPT</a>.
 <h3>Links</h3>
 <h4>Friends</h4>
-* [Mike](https://github.com/M1ke)
-* [Lemon](https://github.com/AhoyLemon)
+<a href="https://github.com/M1ke">Mike</a>
+<a href="https://github.com/AhoyLemon" >Lemon</a>
 <h4>Major Websites</h4>
-* [About me](https://webdesignercameron.github.io/aboutcamrepo)
-* [Pokemon Toxic](https://webdesignercameron.github.io/pokemon-toxic)
+<a href="https://webdesignercameron.github.io/aboutcamrepo">About Me</a>
+<a href="https://webdesignercameron.github.io/pokemon-toxic">Magimals Toxic</a>
 * [Learning Log](https://webdesignercameron.github.io/ll2)
 * [WebDesignerCameron Sites](https://webdesignercameron.github.io/WebDesignerCameronSites)
 * [HammerForge Miniatures Promotion](https://webdesignercameron.github.io/HammerForge-Miniatures)
