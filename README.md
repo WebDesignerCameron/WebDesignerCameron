@@ -10,10 +10,10 @@ people about my websites, and they become impressed by my achievement of buildin
 of my websites I build without reference</strong>, but when I'm stuck, I'll ask my friend <a href="https://github.com/M1ke">Mike</a> or I'll 
 ask <a href="https://chatgpt.com">ChatGPT</a>.
 <h3>Portfolio</h3>
-Born - February 2016
-First Website - March 2026
-Interests - Coding, Mathematics, Science
-Personality - Curious, A delightful mix of extravert and introvert. 
+Born - February 2016<br>
+First Website - March 2026<br>
+Interests - Coding, Mathematics, Science<br>
+Personality - Curious, A delightful mix of extravert and introvert. <br>
 Coding Languages - C++, Python, JS, HTML, CSS. 
 <h3>Links</h3>
 <h4>Friends</h4>
