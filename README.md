@@ -9,16 +9,16 @@ One would say I'm very <strong>technologically capable</strong>, like learning c
 people about my websites, and they become impressed by my achievement of building a public, accessable website. <strong>Most
 of my websites I build without reference</strong>, but when I'm stuck, I'll ask my friend <a href="https://github.com/M1ke">Mike</a> or I'll 
 ask <a href="https://chatgpt.com">ChatGPT</a>.
-## Links
-### Friends
+<h3>Links</h3>
+<h4>Friends</h4>
 * [Mike](https://github.com/M1ke)
 * [Lemon](https://github.com/AhoyLemon)
-### Major Websites
+<h4>Major Websites</h4>
 * [About me](https://webdesignercameron.github.io/aboutcamrepo)
 * [Pokemon Toxic](https://webdesignercameron.github.io/pokemon-toxic)
 * [Learning Log](https://webdesignercameron.github.io/ll2)
 * [WebDesignerCameron Sites](https://webdesignercameron.github.io/WebDesignerCameronSites)
 * [HammerForge Miniatures Promotion](https://webdesignercameron.github.io/HammerForge-Miniatures)
-### Small Websites
+<h4>Small Websites</h4>
 * [My first website](https://webdesignercameron.github.io/index1)
 * [Learning Log Beta Version](https://webdesignercameron.github.io/learning-log)
