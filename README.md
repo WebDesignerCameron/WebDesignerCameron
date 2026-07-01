@@ -14,6 +14,7 @@ Born - February 2016
 First Website - March 2026
 Interests - Coding, Mathematics, Science
 Personality - Curious, A delightful mix of extravert and introvert. 
+Coding Languages - C++, Python, JS, HTML, CSS. 
 <h3>Links</h3>
 <h4>Friends</h4>
 <a href="https://github.com/M1ke">Mike</a>
