@@ -12,13 +12,19 @@ ask <a href="https://chatgpt.com">ChatGPT</a>.
 <h3>Links</h3>
 <h4>Friends</h4>
 <a href="https://github.com/M1ke">Mike</a>
+<br>
 <a href="https://github.com/AhoyLemon" >Lemon</a>
 <h4>Major Websites</h4>
 <a href="https://webdesignercameron.github.io/aboutcamrepo">About Me</a>
+<br>
 <a href="https://webdesignercameron.github.io/pokemon-toxic">Magimals Toxic</a>
+<br>
 <a href="https://webdesignercameron.github.io/ll2">Learning Log</a>
+<br>
 <a href="https://webdesignercameron.github.io/WebDesignerCameronSites">WebDesignerCameron Sites</a>
+<br>
 <a href="https://webdesignercameron.github.io/HammerForge-Miniatures">HammerForge Miniatures</a>
 <h4>Small Websites</h4>
 <a href="https://webdesignercameron.github.io/index1">My First Website</a>
+<br>
 <a href="https://webdesignercameron.github.io/learning-log">Learning Log Beta</a>
