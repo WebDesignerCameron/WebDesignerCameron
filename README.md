@@ -16,9 +16,9 @@ ask <a href="https://chatgpt.com">ChatGPT</a>.
 <h4>Major Websites</h4>
 <a href="https://webdesignercameron.github.io/aboutcamrepo">About Me</a>
 <a href="https://webdesignercameron.github.io/pokemon-toxic">Magimals Toxic</a>
-* [Learning Log](https://webdesignercameron.github.io/ll2)
-* [WebDesignerCameron Sites](https://webdesignercameron.github.io/WebDesignerCameronSites)
-* [HammerForge Miniatures Promotion](https://webdesignercameron.github.io/HammerForge-Miniatures)
+<a href="https://webdesignercameron.github.io/ll2">Learning Log</a>
+<a href="https://webdesignercameron.github.io/WebDesignerCameronSites">WebDesignerCameron Sites</a>
+<a href="https://webdesignercameron.github.io/HammerForge-Miniatures">HammerForge Miniatures</a>
 <h4>Small Websites</h4>
-* [My first website](https://webdesignercameron.github.io/index1)
-* [Learning Log Beta Version](https://webdesignercameron.github.io/learning-log)
+<a href="https://webdesignercameron.github.io/index1">My First Website</a>
+<a href="https://webdesignercameron.github.io/learning-log">Learning Log Beta</a>
