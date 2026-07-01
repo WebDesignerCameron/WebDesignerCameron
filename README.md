@@ -1,4 +1,4 @@
-<h2>WebDesignerCameron</h2>
+<h2>WebDesignerCameron 🐈</h2>
 <h3>Introduction</h3>
 Hi, I'm <a href="https://github.com/WebDesignerCameron">WebDesignerCameron</a> and I create websites for myself and for other people. 
 <strong><em>I've always loved two things:</em></strong> sharing information and earning rewards for what I like doing anyways. Therefore the idea 
