@@ -1,14 +1,14 @@
-<h1>WebDesignerCameron</h1>
-## Introduction
-Hi, I'm [WebDesignerCameron](https://github.com/WebDesignerCameron) and I create websites for myself and for other people. 
-***I've always loved two things:*** sharing information and earning rewards for what I like doing anyways. Therefore the idea 
-of websites stuck with me, and I thus founded [WebDesignerCameron Sites](https://webdesignercameron.github.io/WebDesignerCameronSites). I got to do what I loved, with a bonus cash 
-reward. You can see what I love doing in [this website](https://webdesignercameron.github.io/aboutcamrepo). 
-## Capabilities
-One would say I'm very **technologically capable**, like learning coding at a young age. I love the proud feeling when I tell 
-people about my websites, and their mouth gapes in disbelief that a *Primary School* kid built a public, accessable website. **Most
-of my websites I build without reference**, but when I'm stuck, I'll ask my friend [Mike](https://github.com/M1ke) or I'll 
-ask [ChatGPT](https://chatgpt.com). 
+<h2>WebDesignerCameron</h2>
+<h3>Introduction</h3>
+Hi, I'm <a href="https://github.com/WebDesignerCameron">WebDesignerCameron</a> and I create websites for myself and for other people. 
+<strong><em>I've always loved two things:</em></strong> sharing information and earning rewards for what I like doing anyways. Therefore the idea 
+of websites stuck with me, and I thus founded <a href="https://webdesignercameron.github.io/WebDesignerCameronSites">WebDesignerCameron Sites</a>. I got to do what I loved, with a bonus cash 
+reward. You can see what I love doing in <a href="https://webdesignercameron.github.io/aboutcamrepo">this website</a>. 
+<h3>Capabilities</h3>
+One would say I'm very <strong>technologically capable</strong>, like learning coding at a young age. I love the proud feeling when I tell 
+people about my websites, and they become impressed by my achievement of building a public, accessable website. <strong>Most
+of my websites I build without reference</strong>, but when I'm stuck, I'll ask my friend <a href="https://github.com/M1ke">Mike</a> or I'll 
+ask <a href="https://chatgpt.com">ChatGPT</a>.
 ## Links
 ### Friends
 * [Mike](https://github.com/M1ke)
