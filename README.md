@@ -33,6 +33,9 @@ Coding Languages - C++, Python, JS, HTML, CSS.
 <a href="https://webdesignercameron.github.io/ll2">Learning Log</a>
 <br>
 <a href="https://webdesignercameron.github.io/WebDesignerCameronSites">WebDesignerCameron Sites</a>
+<a href="https://webdesignercameron.github.io/WebDesignerCameronCode" >WebDesignerCameron Code</a>
+<br>
+<a href="https://webdesignercameron.github.io/WebDesignerCameronAsk" >WebDesignerCameron Ask</a>
 <br>
 <a href="https://webdesignercameron.github.io/HammerForge-Miniatures">HammerForge Miniatures</a>
 <h4>Small Websites</h4>
