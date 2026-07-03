@@ -15,6 +15,8 @@ First Website - March 2026<br>
 Interests - Coding, Mathematics, Science<br>
 Personality - Curious, A delightful mix of extravert and introvert. <br>
 Coding Languages - C++, Python, JS, HTML, CSS. 
+<details>
+<summary>Links</summary>
 <h3>Links</h3>
 <h4>Friends</h4>
 <a href="https://github.com/M1ke">Mike</a>
@@ -34,3 +36,4 @@ Coding Languages - C++, Python, JS, HTML, CSS.
 <a href="https://webdesignercameron.github.io/index1">My First Website</a>
 <br>
 <a href="https://webdesignercameron.github.io/learning-log">Learning Log Beta</a>
+</details>
