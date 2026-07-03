@@ -1,8 +1,3 @@
-<style>
-summary {
-  font-size: 2em;
-}
-</style>
 <h2>WebDesignerCameron 🐈</h2>
 <h3>Introduction</h3>
 Hi, I'm <a href="https://github.com/WebDesignerCameron">WebDesignerCameron</a> and I create websites for myself and for other people. 
@@ -21,7 +16,7 @@ Interests - Coding, Mathematics, Science<br>
 Personality - Curious, A delightful mix of extravert and introvert. <br>
 Coding Languages - C++, Python, JS, HTML, CSS. 
 <details>
-<summary><strong>Links</strong></summary>
+<summary style="font-size:2em;" ><strong>Links</strong></summary>
 <h3>Links</h3>
 <h4>Friends</h4>
 <a href="https://github.com/M1ke">Mike</a>
