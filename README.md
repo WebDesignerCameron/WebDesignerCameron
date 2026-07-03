@@ -15,6 +15,9 @@ First Website - March 2026<br>
 Interests - Coding, Mathematics, Science<br>
 Personality - Curious, A delightful mix of extravert and introvert. <br>
 Coding Languages - C++, Python, JS, HTML, CSS. 
+<br>
+<hr>
+<br>
 <details>
 <summary style="font-size:2em;" ><strong>Links</strong></summary>
 <h3>Links</h3>
