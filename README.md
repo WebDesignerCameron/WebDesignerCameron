@@ -28,7 +28,7 @@ Coding Languages - C++, Python, JS, HTML, CSS.
 <h4>Major Websites</h4>
 <a href="https://webdesignercameron.github.io/aboutcamrepo">About Me</a>
 <br>
-<a href="https://webdesignercameron.github.io/pokemon-toxic">Magimals Toxic</a>
+<a href="https://webdesignercameron.github.io/magimals-toxic">Magimals Toxic</a>
 <br>
 <a href="https://webdesignercameron.github.io/ll2">Learning Log</a>
 <br>
