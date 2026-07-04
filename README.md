@@ -44,3 +44,18 @@ Coding Languages - C++, Python, JS, HTML, CSS.
 <a href="https://webdesignercameron.github.io/learning-log">Learning Log Beta</a>
 </details>
 <br>
+<hr>
+<br>
+<p align="left">
+  <h4>Daily Friends</h4>
+  <img src="https://githubassets.com" alt="GitHub" height="40" style="vertical-align:middle; margin-right:10px;"/>
+  <img src="https://wikimedia.org" alt="HTML5" height="40" style="vertical-align:middle; margin-right:10px;"/>
+  <img src="https://wikimedia.org" alt="CSS3" height="40" style="vertical-align:middle; margin-right:10px;"/>
+  <img src="https://wikimedia.org" alt="JavaScript" height="40" style="vertical-align:middle; margin-right:10px;"/>
+  <img src="https://wikimedia.org" alt="C++" height="40" style="vertical-align:middle; margin-right:10px;"/>
+  <h4>Meh</h4>
+  <img src="https://wikimedia.org" alt="Python" height="40" style="vertical-align:middle; margin-right:10px;"/>
+  <img src="https://wikimedia.org" alt="YAML" height="40" style="vertical-align:middle; margin-right:10px;"/>
+  <h4>Ew, no</h4>
+  <img src="https://wikimedia.org" alt="Firebase" height="40" style="vertical-align:middle; margin-right:10px;"/>
+</p>
