@@ -50,3 +50,15 @@ My programming stack -
 <br>
 <hr>
 <br>
+<h3>My stack</h3>
+Based on my GitHub profile as WebDesignerCameron,
+my programming stack is heavily centered around
+core web development technologies like HTML, CSS,
+and JavaScript. I use these foundational tools to
+build interactive front-end experiences, focusing
+on responsive layouts and browser-based
+structures. A great example of this in action is
+my work on the Magimals Toxic RPG project, where
+I leverage my stack to organize game data and
+bring creative concepts to life directly in the
+browser.
