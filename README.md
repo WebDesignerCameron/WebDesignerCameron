@@ -14,7 +14,9 @@ Born - February 2016<br>
 First Website - March 2026<br>
 Interests - Coding, Mathematics, Science<br>
 Personality - Curious, A delightful mix of extravert and introvert. <br>
-Coding Languages - C++, Python, JS, HTML, CSS. 
+Coding Languages - C++, Python, JS, HTML, CSS. <br>
+My programming stack - 
+<a href="languages.md">See here</a>
 <br>
 <hr>
 <br>
