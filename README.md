@@ -21,8 +21,7 @@ My programming stack -
 <hr>
 <br>
 <details>
-<summary style="font-size:2em;" ><strong>Links</strong></summary>
-<h3>Links</h3>
+<summary style="font-size:2em;" ><h3><strong>Links</strong></h3></summary>
 <h4>Friends</h4>
 <a href="https://github.com/M1ke">Mike</a>
 <br>
