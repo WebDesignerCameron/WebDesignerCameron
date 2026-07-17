@@ -90,3 +90,24 @@ browser.
 Though, I have experience with C++, C 
 and Python, and I know basic things in 
 Java. 
+<h2>GitHub Stats</h2>
+PRs made by WebDesignerCameron:
+6
+<br>
+PRs closed by WebDesignerCameron:
+5
+<br>
+Forks by WebDesignerCameron:
+1
+<br>
+Public Repositories by 
+WebDesignerCameron:
+23
+<br>
+Private Repositories by
+WebDesignerCameron:
+1
+<br>
+Overall Repositories by
+WebDesignerCameron:
+24
