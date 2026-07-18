@@ -95,7 +95,7 @@ PRs made by WebDesignerCameron:
 6
 <br>
 PRs closed by WebDesignerCameron:
-6
+5
 <br>
 Forks by WebDesignerCameron:
 1
