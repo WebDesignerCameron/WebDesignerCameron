@@ -92,10 +92,10 @@ and Python, and I know basic things in
 Java. 
 <h2>GitHub Stats</h2>
 PRs made by WebDesignerCameron:
-8
+9
 <br>
 PRs closed by WebDesignerCameron:
-6
+7
 <br>
 Forks by WebDesignerCameron:
 1
