@@ -55,7 +55,6 @@
 
 ## Who?
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=flat&logo=wordpress&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-%23F05138.svg?style=flat&logo=swift&logoColor=white)
 ![D](https://img.shields.io/badge/D-%23B03931.svg?style=flat&logo=d&logoColor=white)
