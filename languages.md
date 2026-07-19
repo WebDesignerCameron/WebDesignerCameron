@@ -52,6 +52,8 @@
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
 
 ## Who?
 
@@ -67,9 +69,8 @@
 
 ## Yeuch
 
-* Firebase
-* GitHub Actions
-* GitHub Dev
-* Powershell
-* Codespaces
-* Windows
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![github.dev](https://img.shields.io/badge/github.dev-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Codespaces](https://img.shields.io/badge/GitHub_Codespaces-1f425f?style=for-the-badge&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
