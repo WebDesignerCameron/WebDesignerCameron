@@ -13,6 +13,7 @@
 * LOLCode
 * Python
 * Matplotlib
+* Markdown
 * Pygame
 * Gemini
 * ChatGPT
