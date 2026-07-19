@@ -1,4 +1,5 @@
 <h2>WebDesignerCameron 🐈</h2>
+<img src="https://cdn.jsdelivr.net/gh/WebDesignerCameron/src@main/projects/shared/assets/svg/logo.svg" alt="Logo" >
 <h3>Introduction</h3>
 Hi, I'm <a href="https://github.com/WebDesignerCameron">WebDesignerCameron</a>
 and I create websites for myself and 
