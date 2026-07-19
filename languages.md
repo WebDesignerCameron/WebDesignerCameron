@@ -13,13 +13,13 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-* Pygame
-* Gemini
-* ChatGPT
-* Manus AI
-* Google AI
-* SFML
-* Pillow
+![Pygame](https://img.shields.io/badge/Pygame-354f52?style=for-the-badge&logo=python&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-88ddff?style=for-the-badge&logo=googlegemini&logoColor=black)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Manus AI](https://img.shields.io/badge/Manus%20AI-000000?style=for-the-badge&logo=artificialintelligence&logoColor=white)
+![Google AI](https://img.shields.io/badge/Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-15045C?style=for-the-badge&logo=python&logoColor=white)
 
 
 ## Friendly With
