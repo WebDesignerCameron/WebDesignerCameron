@@ -1,5 +1,7 @@
 # My Striking Stack
 ## Terrific Tools
+![MP3](https://img.shields.io/badge/MP3-000000?style=for-the-badge&logo=mp3&logoColor=white)
+![MP4](https://img.shields.io/badge/MP4-000000?style=for-the-badge&logo=mp4&logoColor=white)
 ![TXT](https://img.shields.io/badge/TXT-Format-blue?style=for-the-badge&logo=textpattern)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -35,6 +37,9 @@
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![JSON](https://img.shields.io/badge/JSON-Data-orange?style=for-the-badge&logo=json)
+![M4A](https://img.shields.io/badge/M4A-000000?style=for-the-badge&logo=apple&logoColor=white)
+![WAV](https://img.shields.io/badge/WAV-000000?style=for-the-badge&logo=wav&logoColor=white)
+![OGG](https://img.shields.io/badge/OGG-000000?style=for-the-badge&logo=ogg&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
