@@ -1,5 +1,6 @@
 # My Striking Stack
 ## Terrific Tools
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=Google%20Chrome&logoColor=white)
 ![MP3](https://img.shields.io/badge/MP3-000000?style=for-the-badge&logo=mp3&logoColor=white)
 ![MP4](https://img.shields.io/badge/MP4-000000?style=for-the-badge&logo=mp4&logoColor=white)
 ![TXT](https://img.shields.io/badge/TXT-Format-blue?style=for-the-badge&logo=textpattern)
@@ -69,6 +70,8 @@
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)
+![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
 
 
 ## Confusing Co-existors
