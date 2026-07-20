@@ -54,6 +54,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Git CLI](https://img.shields.io/badge/Git_CLI-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=F9F9F9)
  
 
 ## Algorithmic Acquaintances
@@ -79,6 +80,8 @@
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Erlang](https://img.shields.io/badge/Erlang-%23A90533.svg?style=for-the-badge&logo=erlang&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=1C78C0)
+![Turbopack](https://img.shields.io/badge/Turbopack-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Models](https://img.shields.io/badge/GitHub%20Models-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Chef](https://img.shields.io/badge/Language-Chef-8B4513?style=for-the-badge&logo=chef-hat&logoColor=white)
 ![Piet](https://img.shields.io/badge/Language-Piet-FF3366?style=for-the-badge)
@@ -86,6 +89,7 @@
 ![Chicken](https://img.shields.io/badge/Language-Chicken-FFD700?style=for-the-badge&logo=chicken&logoColor=black)
 ![BASIC](https://img.shields.io/badge/BASIC-%23002F6C.svg?style=for-the-badge&logo=code&logoColor=white)
 ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
+![Rspack](https://img.shields.io/badge/Rspack-070707?style=for-the-badge&logo=rspack&logoColor=D946EF)
 
 
 ## Nightmarish Nodes
