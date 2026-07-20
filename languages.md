@@ -8,6 +8,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-8957E5?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![SVG](https://img.shields.io/badge/SVG-format-green?style=for-the-badge&logo=svg&logoColor=white)
 ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 ![Formspree](https://img.shields.io/badge/Formspree-%23E5122E.svg?style=for-the-badge&logo=formspree&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)
@@ -23,11 +24,14 @@
 ![Google AI](https://img.shields.io/badge/Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white)
 ![Pillow](https://img.shields.io/badge/Pillow-15045C?style=for-the-badge&logo=python&logoColor=white)
+![JPG](https://img.shields.io/badge/JPG-format-blue?style=for-the-badge&logo=jpg&logoColor=white)
 
 
 ## Frequent Friends
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) 
+![PNG](https://img.shields.io/badge/PNG-format-red?style=for-the-badge&logo=png&logoColor=white)
+![JPEG](https://img.shields.io/badge/JPEG-format-orange?style=for-the-badge&logo=jpeg&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![JSON](https://img.shields.io/badge/JSON-Data-orange?style=for-the-badge&logo=json)
