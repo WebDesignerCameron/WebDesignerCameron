@@ -68,6 +68,10 @@
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Erlang](https://img.shields.io/badge/Erlang-%23A90533.svg?style=for-the-badge&logo=erlang&logoColor=white)
 ![GitHub Models](https://img.shields.io/badge/GitHub%20Models-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Chef](https://img.shields.io/badge/Language-Chef-8B4513?style=for-the-badge&logo=chef-hat&logoColor=white)
+![Piet](https://img.shields.io/badge/Language-Piet-FF3366?style=for-the-badge)
+![Whitespace](https://img.shields.io/badge/Language-Whitespace-FFFFFF?style=for-the-badge&logo=blank&labelColor=000000)
+![Chicken](https://img.shields.io/badge/Language-Chicken-FFD700?style=for-the-badge&logo=chicken&logoColor=black)
 
 
 ## Nightmarish Nodes
