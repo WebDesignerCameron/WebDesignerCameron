@@ -92,7 +92,7 @@ browser.
 Though, I have experience with C++, C 
 and Python, and I know basic things in 
 Java. 
-<h2>GitHub Stats</h2>
+<h3>GitHub Stats</h3>
 PRs made by WebDesignerCameron:
 12
 <br>
@@ -113,3 +113,15 @@ WebDesignerCameron:
 Overall Repositories by
 WebDesignerCameron:
 32
+<h3>Badges</h3>
+To get the WebDesignerCameron badge
+in your repository, copy this
+Markdown code:
+<code>
+![WebDesignerCameron](https://cdn.jsdelivr.net/gh/WebDesignerCameron/src@main/projects/shared/assets/svg/logo.svg)
+</code>
+For the 'Made by WebDesignerCameron'
+badge:
+<code>
+![Made by WebDesignerCameron](https://cdn.jsdelivr.net/gh/WebDesignerCameron/src@main/projects/shared/assets/svg/made_by.svg) 
+</code>
