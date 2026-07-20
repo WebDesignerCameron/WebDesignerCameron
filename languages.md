@@ -81,3 +81,4 @@
 ![github.dev](https://img.shields.io/badge/github.dev-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Codespaces](https://img.shields.io/badge/GitHub_Codespaces-1f425f?style=for-the-badge&logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Autocorrect](https://img.shields.io/badge/autocorrect-informational?style=for-the-badge&logo=autocorrect&logoColor=white)
