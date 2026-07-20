@@ -72,6 +72,8 @@
 ![Piet](https://img.shields.io/badge/Language-Piet-FF3366?style=for-the-badge)
 ![Whitespace](https://img.shields.io/badge/Language-Whitespace-FFFFFF?style=for-the-badge&logo=blank&labelColor=000000)
 ![Chicken](https://img.shields.io/badge/Language-Chicken-FFD700?style=for-the-badge&logo=chicken&logoColor=black)
+![BASIC](https://img.shields.io/badge/BASIC-%23002F6C.svg?style=for-the-badge&logo=code&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
 
 
 ## Nightmarish Nodes
