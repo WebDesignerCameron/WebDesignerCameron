@@ -96,13 +96,13 @@ and Python, and I know basic things in
 Java. 
 <h3>GitHub Stats</h3>
 PRs made by WebDesignerCameron:
-12
+13
 <br>
 PRs closed by WebDesignerCameron:
 10
 <br>
 Forks by WebDesignerCameron:
-1
+2
 <br>
 Public Repositories by 
 WebDesignerCameron:
