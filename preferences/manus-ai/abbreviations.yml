@@ -1,6 +1,13 @@
 languages:
     Markdown: "md"
     JavaScript: "js"
+    Typescript: "ts"
     JupyterNotebook: "jn"
+platforms:
+    FormSpree: "fs"
+    GitHub: "gh"
 miscellaneous:
     WebDesignerCameron: "WDC"
+    Repository: "Rep"
+    PullRequest: "PR"
+    Fork: "fr"
