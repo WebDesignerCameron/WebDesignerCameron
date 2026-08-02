@@ -1,0 +1,11 @@
+rules-unless-said-otherwise:
+    All: "Zero Dependancies, No Comments, No empty lines"
+    Markdown: "At Least 250 Lines"
+    JavaScript: "All one file, use window.error not console"
+    HTML: "No comments"
+    LOLCode: "Just make it funny alright, it's not that hard"
+    Vue: "Use <template lang='pug'> and <style lang='scss'>"
+    Pug: "Never do empty .class or #id, always specify tag"
+    Sass: "Use SCSS, not Sass. Use empty .class and #id"
+    Python: "Use if():, for():, etc. not if:, for:, etc."
+    JupyterNotebook: "Display all cells"
