@@ -72,6 +72,7 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
 
 
 ## Confusing Co-existors
@@ -91,7 +92,6 @@
 ![Whitespace](https://img.shields.io/badge/Language-Whitespace-FFFFFF?style=for-the-badge&logo=blank&labelColor=000000)
 ![Chicken](https://img.shields.io/badge/Language-Chicken-FFD700?style=for-the-badge&logo=chicken&logoColor=black)
 ![BASIC](https://img.shields.io/badge/BASIC-%23002F6C.svg?style=for-the-badge&logo=code&logoColor=white)
-![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
 ![Rspack](https://img.shields.io/badge/Rspack-070707?style=for-the-badge&logo=rspack&logoColor=D946EF)
 
 
