@@ -1,0 +1,19 @@
+Language,Purpose,Base Language
+Vue.js,All in one web app maker,JavaScript
+TypeScript,Modern JS,JavaScript
+JavaScript,Website runner,C++
+Rust,C++'s modern sibling,C++
+C++,The main modern language,C
+C#,Application maker,C
+Scratch,Basic language,Python
+Python,Introductory Language,C
+C,All Around Language,FORTRAN
+SCSS,Clean Sass,Sass
+Sass,Modern CSS,CSS
+CSS,Website styler,None
+Pug,Modern HTML,HTML
+HTML,Website maker,FORTRAN
+FORTRAN,One of the first languages,BASIC
+BASIC,A basic programming language,Machine Code
+Machine Code,Very basic commands,Binary
+Binary,0s and 1s,None
