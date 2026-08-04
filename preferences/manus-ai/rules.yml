@@ -1,4 +1,5 @@
 rules-unless-said-otherwise:
+    Indents: 4
     All: "Zero Dependancies, No Comments, No empty lines"
     Markdown: "At Least 250 Lines"
     JavaScript: "All one file, use window.error not console"
