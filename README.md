@@ -95,27 +95,6 @@ browser.
 Though, I have experience with C++, C 
 and Python, and I know basic things in 
 Java. 
-<h3>GitHub Stats</h3>
-PRs made by WebDesignerCameron:
-13
-<br>
-PRs closed by WebDesignerCameron:
-10
-<br>
-Forks by WebDesignerCameron:
-2
-<br>
-Public Repositories by 
-WebDesignerCameron:
-31
-<br>
-Private Repositories by
-WebDesignerCameron:
-1
-<br>
-Overall Repositories by
-WebDesignerCameron:
-32
 <h3>Badges</h3>
 To get the WebDesignerCameron badge
 in your repository, copy this
