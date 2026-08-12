@@ -35,6 +35,7 @@
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) 
 ![React](https://img.shields.io/badge/Language-React-5533FF?style=for-the-badge&logo=react&logoColor=white)
+![JSX](https://img.shields.io/badge/React-JSX-FF1122?style=for-the-badge&logo=react&logoColor=white)
 ![PNG](https://img.shields.io/badge/PNG-format-red?style=for-the-badge&logo=png&logoColor=white)
 ![JPEG](https://img.shields.io/badge/JPEG-format-orange?style=for-the-badge&logo=jpeg&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -66,7 +67,7 @@
 ![SDL](https://img.shields.io/badge/SDL-173364?style=for-the-badge&logo=SDL&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-b!adge&logo=svelte&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
