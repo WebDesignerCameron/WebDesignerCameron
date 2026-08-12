@@ -28,7 +28,7 @@
 ![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white)
 ![Pillow](https://img.shields.io/badge/Pillow-15045C?style=for-the-badge&logo=python&logoColor=white)
 ![JPG](https://img.shields.io/badge/JPG-format-blue?style=for-the-badge&logo=jpg&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Vue.js](https://img.shields.io/badge/vue%2Ejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 
 ## Frequent Friends
